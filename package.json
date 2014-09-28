@@ -1,0 +1,24 @@
+{
+  "name": "slimdx-gamepad",
+  "version": "0.0.1",
+  "description": "Provides an interface for the SlimDX gamepad",
+  "author": "Mike Cluck <mcluck90@gmail.com>",
+  "main": "lib/gamepad.js",
+  "repository": {
+    "type": "git",
+	"url": "https://github.com/MCluck90/slimdx-gamepad"
+  },
+  "bugs": {
+    "url": "https://github.com/MCluck90/slimdx-gamepad/issues"
+  },
+  "keywords": [
+    "slimdx",
+	"gamepad",
+	"xbox",
+	"controller"
+  ],
+  "dependencies": {
+    "edge": "^0.9.3"
+  },
+  "license": "MIT"
+}
